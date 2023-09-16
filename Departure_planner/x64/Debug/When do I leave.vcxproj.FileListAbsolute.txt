@@ -1,0 +1,3 @@
+C:\pines\documents\personal projects\When do I leave\x64\Debug\When do I leave.exe
+C:\pines\documents\personal projects\Day planner\x64\Debug\When do I leave.exe
+C:\pines\documents\personal projects\c lang\Departure_planner\x64\Debug\When do I leave.exe
