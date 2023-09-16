@@ -15,7 +15,8 @@ A departure planner to perform time calculations tailored to user built in C
 #### Save some time and run my program
 (°▽°)/
 Requirements to run: an IDE
-Recommended: Visual Studio Code
+
+Recommended ID: Visual Studio Code
 
 ![sampleOutput jpg](https://github.com/audreylearns/Departure_Planner/assets/109978653/b0e4c695-5d66-4d72-af73-8eee49a09e4d)
 
