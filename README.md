@@ -37,5 +37,5 @@ Thank you for viewing my first project in C language.
 This was developed after semester 1 of studies.
 Further development was made after semester 2&3.
 
-
+LICENSE: CC-BY-SA
 ***
