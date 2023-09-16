@@ -19,6 +19,12 @@ Recommended: Visual Studio Code
 
 ![sampleOutput jpg](https://github.com/audreylearns/Departure_Planner/assets/109978653/b0e4c695-5d66-4d72-af73-8eee49a09e4d)
 
+## Project Data
+![image](https://github.com/audreylearns/Departure_Planner/assets/109978653/9305f6fc-ee68-419e-a48e-72d46daa1f8a)
+
+## Test Explorer
+![testExplorer](https://github.com/audreylearns/Departure_Planner/assets/109978653/f7238747-c59f-49b3-b262-d207eefc11f5)
+
 
 ***
 Owner: Audrey Duzon
