@@ -16,7 +16,7 @@ Further development was made after semester 2&3.
 
 
 #define maxHr 23
-#define maxHrDeduct 23
+#define maxHrDeduct 12
 #define maxMin 59
 #define minE 60
 
