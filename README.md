@@ -16,8 +16,7 @@ A departure planner to perform time calculations tailored to user built in C
 (°▽°)/
 Requirements to run: an IDE
 
-Recommended IDE: Visual Studio Code
-
+Recommended IDE: Visual Studio Code  
 NOTE: accuracy up to 12 h 59 min deduction from arrival time
 
 ![sampleOutput jpg](https://github.com/audreylearns/Departure_Planner/assets/109978653/b0e4c695-5d66-4d72-af73-8eee49a09e4d)
