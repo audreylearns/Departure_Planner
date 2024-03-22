@@ -1,4 +1,4 @@
-# DEPATURE PLANNER
+# DEPARTURE PLANNER
 A departure planner to perform time calculations tailored to user built in C
 ***
 - Creates planner.txtfile in directory and prompts user to forward via email or whatsApp [in progress]
